@@ -1,0 +1,15 @@
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.QueryBuilder.deps.json
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.QueryBuilder.dll
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.QueryBuilder.pdb
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.csprojAssemblyReference.cache
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.AssemblyInfoInputs.cache
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.AssemblyInfo.cs
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.csproj.CopyComplete
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.dll
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.pdb
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.QueryBuilder.runtimeconfig.json
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\bin\Debug\netcoreapp3.1\Queue.QueryBuilder.runtimeconfig.dev.json
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue.QueryBuilder\obj\Debug\netcoreapp3.1\Queue.QueryBuilder.genruntimeconfig.cache

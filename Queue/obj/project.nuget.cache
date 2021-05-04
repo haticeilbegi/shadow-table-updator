@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5lVlmzCRYlGPvteJ5QcTtwOytsBkCeyEdPfLUH0ogW1omZrNVvFbJ+PfWXVl4NWzEPoMRabY9XhKArn+6SCTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatice.ilbegi\\source\\repos\\Queue\\Queue\\Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatice.ilbegi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hatice.ilbegi\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\hatice.ilbegi\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
+    "C:\\Users\\hatice.ilbegi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

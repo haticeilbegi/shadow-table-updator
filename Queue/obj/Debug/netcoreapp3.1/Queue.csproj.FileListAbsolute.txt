@@ -1,0 +1,8 @@
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\hatice.ilbegi\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
